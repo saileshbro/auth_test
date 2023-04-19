@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CLIENT_ID</key>
+    <string>170925070592-dishbghhbcpcs74p37ljqau84gbemrjl.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.170925070592-dishbghhbcpcs74p37ljqau84gbemrjl</string>
+    <key>ANDROID_CLIENT_ID</key>
+    <string>170925070592-kaoao13fmd72544oqh5lpdo658rn394d.apps.googleusercontent.com</string>
+    <key>API_KEY</key>
+    <string>AIzaSyCyV2Mju_A2onYfgiSJKGMwQtlwv0zRnoc</string>
+    <key>GCM_SENDER_ID</key>
+    <string>170925070592</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>np.com.saileshdahal.authTest</string>
+    <key>PROJECT_ID</key>
+    <string>instagram-clone-course-sailesh</string>
+    <key>STORAGE_BUCKET</key>
+    <string>instagram-clone-course-sailesh.appspot.com</string>
+    <key>IS_ADS_ENABLED</key>
+    <false></false>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false></false>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true></true>
+    <key>IS_GCM_ENABLED</key>
+    <true></true>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true></true>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:170925070592:ios:5fb11c854a15a967017be5</string>
+  </dict>
+</plist>
